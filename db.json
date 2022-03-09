@@ -8,12 +8,11 @@
   },
   "uk": {
     "count": {
-        "data": {
-          "plpSearch": {
-            "count": 1010
-          }
+      "data": {
+        "plpSearch": {
+          "count": 1010
         }
       }
+    }
   }
-  
 }
