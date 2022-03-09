@@ -1,0 +1,14 @@
+{
+  "de-count": {
+    "id": "db4be8d0-02d0-450b-a1c9-dfe2664192f3",
+    "total": 263956,
+    "totalElements": 263956
+  },
+  "uk-count": {
+    "data": {
+      "plpSearch": {
+        "count": 1010
+      }
+    }
+  }
+}
